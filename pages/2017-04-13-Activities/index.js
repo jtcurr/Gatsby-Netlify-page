@@ -18,5 +18,5 @@ export default ActivitiesPost
 
 exports.data = {
   title: "Activities",
-  date: "2016-12-09T12:40:32.169Z",
+  date: "2017-04-13",
 }
