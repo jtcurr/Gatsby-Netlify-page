@@ -18,5 +18,5 @@ export default CustomersPost
 
 exports.data = {
   title: "Customers",
-  date: "2017-03-13",
+  date: "2017-04-14",
 }
