@@ -4,7 +4,7 @@ require('react-dates/css/variables.scss')
 require('react-dates/css/styles.scss')
 
 
-class NetifyPost extends React.Component {
+class NetlifyPost extends React.Component {
   render () {
     return (
       <div>
@@ -14,7 +14,7 @@ class NetifyPost extends React.Component {
   }
 }
 
-export default ActivitiesPost
+export default NetlifyPost
 
 exports.data = {
   title: "Netlify",
