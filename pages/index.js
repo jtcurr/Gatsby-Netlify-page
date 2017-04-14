@@ -40,6 +40,9 @@ class BlogIndex extends React.Component {
                 </Link>
               </li>
           ))}
+          <li>
+            <Link style={{boxShadow: 'none'}} to='/redirect'>Redirect</Link>
+          </li>
         </ul>
       </div>
     )
