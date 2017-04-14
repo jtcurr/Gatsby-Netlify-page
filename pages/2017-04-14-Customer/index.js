@@ -1,5 +1,5 @@
 const React = require('react')
-const Customers = require('../../components/Customers')
+const Customers = require('../../questionComponents/Customers')
 require('react-dates/css/variables.scss')
 require('react-dates/css/styles.scss')
 

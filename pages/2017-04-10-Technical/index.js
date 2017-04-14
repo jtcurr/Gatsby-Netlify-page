@@ -1,5 +1,5 @@
 const React = require('react')
-const Technical = require('../../components/Technical')
+const Technical = require('../../questionComponents/Technical')
 require('react-dates/css/variables.scss')
 require('react-dates/css/styles.scss')
 

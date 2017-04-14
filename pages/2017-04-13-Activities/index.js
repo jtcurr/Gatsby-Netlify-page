@@ -1,5 +1,5 @@
 const React = require('react')
-const Activities = require('../../components/Activities')
+const Activities = require('../../questionComponents/Activities')
 require('react-dates/css/variables.scss')
 require('react-dates/css/styles.scss')
 

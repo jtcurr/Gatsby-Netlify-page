@@ -1,5 +1,5 @@
 const React = require('react')
-const Netlify = require('../../components/Netlify')
+const Netlify = require('../../questionComponents/Netlify')
 require('react-dates/css/variables.scss')
 require('react-dates/css/styles.scss')
 

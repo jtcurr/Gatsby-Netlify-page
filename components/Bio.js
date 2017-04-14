@@ -22,7 +22,7 @@ class Bio extends React.Component {
             height: rhythm(2),
           }}
         />
-        Written by <strong>{config.authorName}</strong> lives in San Francisco and who can tie his shoes wearing boxing gloves. You should check out his <a href="https://www.linkedin.com/in/john-currie-7215a5b9/">Linkedin</a> page.
+        Written by <strong>{config.authorName}</strong> lives in San Francisco and he can tie his shoes wearing boxing gloves. You should check out his <a href="https://www.linkedin.com/in/john-currie-7215a5b9/">Linkedin</a> page.
       </p>
     )
   }
